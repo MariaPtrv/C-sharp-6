@@ -1,0 +1,50 @@
+[
+  {
+    "Title": "WPF Unleashed",
+    "Author": "Adam Natan",
+    "Publisher": "GPO",
+    "Year": 2012
+  },
+  {
+    "Title": "F# for Machine Learning",
+    "Author": "Sudipta Mukherjee",
+    "Publisher": "Rutgers University Press",
+    "Year": 2016
+  },
+  {
+    "Title": "F# for Fun and Profit",
+    "Author": "Scott Wlaschin",
+    "Publisher": "GPO",
+    "Year": 2015
+  },
+  {
+    "Title": "Learning C# by Developing Games with Unity 3D",
+    "Author": "Terry Norton",
+    "Publisher": "Yale University Press",
+    "Year": 2013
+  },
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Publisher": "Rutgers University Press",
+    "Year": 1960
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Publisher": "Yale University Press",
+    "Year": 1948
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Publisher": "GPO",
+    "Year": 1925
+  },
+  {
+    "Title": "The Book Thief",
+    "Author": "Markus Zusak",
+    "Publisher": "Yale University Press",
+    "Year": 1939
+  }
+]

@@ -1,0 +1,50 @@
+<Books>
+  <Book>
+    <Title>WPF Unleashed</Title>
+    <Author>Adam Natan</Author>
+    <Publisher>GPO</Publisher>
+    <Year>2012</Year>
+  </Book>
+  <Book>
+    <Title>F# for Machine Learning</Title>
+    <Author>Sudipta Mukherjee</Author>
+    <Publisher>Rutgers University Press</Publisher>
+    <Year>2016</Year>
+  </Book>
+  <Book>
+    <Title>F# for Fun and Profit</Title>
+    <Author>Scott Wlaschin</Author>
+    <Publisher>GPO</Publisher>
+    <Year>2015</Year>
+  </Book>
+  <Book>
+    <Title>Learning C# by Developing Games with Unity 3D</Title>
+    <Author>Terry Norton</Author>
+    <Publisher>Yale University Press</Publisher>
+    <Year>2013</Year>
+  </Book>
+  <Book>
+    <Title>To Kill a Mockingbird</Title>
+    <Author>Harper Lee</Author>
+    <Publisher>Rutgers University Press</Publisher>
+    <Year>1960</Year>
+  </Book>
+  <Book>
+    <Title>1984</Title>
+    <Author>George Orwell</Author>
+    <Publisher>Yale University Press</Publisher>
+    <Year>1948</Year>
+  </Book>
+  <Book>
+    <Title>The Great Gatsby</Title>
+    <Author>F. Scott Fitzgerald</Author>
+    <Publisher>GPO</Publisher>
+    <Year>1925</Year>
+  </Book>
+  <Book>
+    <Title>The Book Thief</Title>
+    <Author>Markus Zusak</Author>
+    <Publisher>Yale University Press</Publisher>
+    <Year>1939</Year>
+  </Book>
+</Books>
